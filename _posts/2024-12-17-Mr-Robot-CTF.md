@@ -1,6 +1,6 @@
 ---
 description: >-
-  x's writeup on the Mr. Robot CTF machine from TryHackMe, inspired by the popular TV show
+  Zujiniale's writeup on the Mr. Robot CTF machine from TryHackMe, inspired by the popular TV show
 title: TryHackMe - Mr. Robot CTF
 date: 2024-12-17 00:00:00 -0600
 categories: [Write-ups, TryHackMe]
